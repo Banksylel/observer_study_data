@@ -4,4 +4,4 @@ This data is part of an indendent observer study, evaluating the performance of 
 
 8 out of distribution external validation images are evaluated.
 
-As part of section 6 (Independent Observer Study) of (Structure-Aware Deep Learning Approaches for Dental Disease Detection in Diagnostic Imaging)[https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Structure-Aware-Deep-Learning-Approaches-for-Dental/991090728102346]
+As part of section 6 (Independent Observer Study) of [Structure-Aware Deep Learning Approaches for Dental Disease Detection in Diagnostic Imaging](https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Structure-Aware-Deep-Learning-Approaches-for-Dental/991090728102346).
